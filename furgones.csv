@@ -1,0 +1,612 @@
+mercado,producto,modelo,marca,firma,origen,ventas,precio,cilindrada,potencia,peso,diesel,tcr,moneda,tipo_cambio
+2017-01,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,14,6.937,1.5,75.0,1955,0,100.0,dolar,663.92
+2017-01,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,12,13.66,1.5,97.0,2100,1,100.0,euro,732.58
+2017-01,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,148,6.873,1.2,60.0,1850,0,100.0,dolar,663.92
+2017-01,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,20,11.963,1.3,65.0,2330,1,100.0,euro,732.58
+2017-01,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,16,13.852,1.6,76.0,2505,1,100.0,euro,732.58
+2017-01,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,59,8.537,1.4,62.0,1767,0,100.0,dolar,663.92
+2017-01,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,81,10.578,1.2,55.0,1700,1,100.0,euro,732.58
+2017-01,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,12,9.648,1.4,56.0,1680,0,100.0,euro,732.58
+2017-01,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,15,5.737,1.2,63.0,1850,0,100.0,dolar,663.92
+2017-01,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,127,11.494,1.6,68.0,2330,1,100.0,euro,732.58
+2017-01,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,314,10.849,1.6,68.0,2330,1,100.0,euro,732.58
+2017-01,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,22,5.923,1.2,72.0,1730,0,100.0,dolar,663.92
+2017-01,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,10,5.695,1.2,61.0,1800,0,100.0,dolar,663.92
+2017-01,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,72,10.921,1.5,55.0,1960,1,100.0,euro,732.58
+2017-01,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,12,9.352,1.6,60.0,1881,0,100.0,euro,732.58
+2017-01,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,9,11.666,1.6,67.0,1950,0,100.0,dolar,663.92
+2017-02,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,12,6.746,1.5,75.0,1955,0,98.34,dolar,666.12
+2017-02,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,6,12.261,1.5,97.0,2100,1,98.34,euro,718.5
+2017-02,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,138,6.45,1.2,60.0,1850,0,98.34,dolar,666.12
+2017-02,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,26,12.117,1.3,65.0,2330,1,98.34,euro,718.5
+2017-02,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,22,13.172,1.6,76.0,2505,1,98.34,euro,718.5
+2017-02,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,64,8.272,1.4,62.0,1767,0,98.34,dolar,666.12
+2017-02,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,123,10.823,1.2,55.0,1700,1,98.34,euro,718.5
+2017-02,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,12,9.516,1.4,56.0,1680,0,98.34,euro,718.5
+2017-02,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,15,4.87,1.2,63.0,1850,0,98.34,dolar,666.12
+2017-02,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,81,10.242,1.6,68.0,2330,1,98.34,euro,718.5
+2017-02,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,12,11.621,1.3,55.0,1750,1,98.34,euro,718.5
+2017-02,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,170,10.774,1.6,68.0,2330,1,98.34,euro,718.5
+2017-02,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,13,5.411,1.2,72.0,1730,0,98.34,dolar,666.12
+2017-02,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,21,5.753,1.2,61.0,1800,0,98.34,dolar,666.12
+2017-02,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,90,10.203,1.5,55.0,1960,1,98.34,euro,718.5
+2017-02,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,7,8.425,1.6,60.0,1881,0,98.34,euro,718.5
+2017-02,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,12,9.735,1.6,67.0,1950,0,98.34,dolar,666.12
+2017-03,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,15,7.313,1.5,75.0,1955,0,100.8,dolar,667.17
+2017-03,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,20,12.883,1.5,97.0,2100,1,100.8,euro,702.99
+2017-03,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,180,6.931,1.2,60.0,1850,0,100.8,dolar,667.17
+2017-03,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,15,13.637,1.6,76.0,2505,1,100.8,euro,702.99
+2017-03,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,53,8.189,1.4,62.0,1767,0,100.8,dolar,667.17
+2017-03,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,64,10.773,1.2,55.0,1700,1,100.8,euro,702.99
+2017-03,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,9,9.634,1.4,56.0,1680,0,100.8,euro,702.99
+2017-03,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,12,5.142,1.2,63.0,1850,0,100.8,dolar,667.17
+2017-03,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,8,5.742,1.2,64.0,1810,0,100.8,dolar,667.17
+2017-03,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,104,10.999,1.6,68.0,2330,1,100.8,euro,702.99
+2017-03,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,27,10.876,1.3,55.0,1750,1,100.8,euro,702.99
+2017-03,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,250,11.061,1.6,68.0,2330,1,100.8,euro,702.99
+2017-03,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,30,5.644,1.2,72.0,1730,0,100.8,dolar,667.17
+2017-03,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,20,5.955,1.2,61.0,1800,0,100.8,dolar,667.17
+2017-03,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,30,10.61,1.5,55.0,1960,1,100.8,euro,702.99
+2017-03,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,8,9.558,1.6,60.0,1881,0,100.8,euro,702.99
+2017-03,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,8,11.343,1.6,67.0,1950,0,100.8,dolar,667.17
+2017-04,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,16,6.484,1.5,75.0,1955,0,100.33,dolar,661.19
+2017-04,BF Surfer 1.6 D,BF Surfer,BF,BF,europeo,106,10.129,1.6,75.0,2270,1,100.33,euro,702.54
+2017-04,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,22,13.12,1.5,97.0,2100,1,100.33,euro,702.54
+2017-04,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,129,6.369,1.2,60.0,1850,0,100.33,dolar,661.19
+2017-04,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,17,12.805,1.3,65.0,2330,1,100.33,euro,702.54
+2017-04,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,24,13.201,1.6,76.0,2505,1,100.33,euro,702.54
+2017-04,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,44,8.61,1.4,62.0,1767,0,100.33,dolar,661.19
+2017-04,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,73,10.525,1.2,55.0,1700,1,100.33,euro,702.54
+2017-04,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,11,5.186,1.2,63.0,1850,0,100.33,dolar,661.19
+2017-04,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,10,5.663,1.2,64.0,1810,0,100.33,dolar,661.19
+2017-04,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,306,10.247,1.6,68.0,2330,1,100.33,euro,702.54
+2017-04,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,21,11.227,1.3,55.0,1750,1,100.33,euro,702.54
+2017-04,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,200,10.657,1.6,68.0,2330,1,100.33,euro,702.54
+2017-04,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,19,5.084,1.2,72.0,1730,0,100.33,dolar,661.19
+2017-04,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,11,5.902,1.2,61.0,1800,0,100.33,dolar,661.19
+2017-04,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,48,9.91,1.5,55.0,1960,1,100.33,euro,702.54
+2017-04,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,13,9.217,1.6,60.0,1881,0,100.33,euro,702.54
+2017-05,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,39,6.62,1.5,75.0,1955,0,102.67,dolar,643.21
+2017-05,BF Surfer 1.6 D,BF Surfer,BF,BF,europeo,115,9.858,1.6,75.0,2270,1,102.67,euro,685.3
+2017-05,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,35,13.58,1.5,97.0,2100,1,102.67,euro,685.3
+2017-05,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,146,7.213,1.2,60.0,1850,0,102.67,dolar,643.21
+2017-05,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,8,12.712,1.3,65.0,2330,1,102.67,euro,685.3
+2017-05,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,7,13.855,1.6,76.0,2505,1,102.67,euro,685.3
+2017-05,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,31,9.111,1.4,62.0,1767,0,102.67,dolar,643.21
+2017-05,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,56,10.616,1.2,55.0,1700,1,102.67,euro,685.3
+2017-05,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,4,9.857,1.4,56.0,1680,0,102.67,euro,685.3
+2017-05,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,17,5.533,1.2,63.0,1850,0,102.67,dolar,643.21
+2017-05,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,13,5.484,1.2,64.0,1810,0,102.67,dolar,643.21
+2017-05,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,160,10.799,1.6,68.0,2330,1,102.67,euro,685.3
+2017-05,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,21,11.088,1.3,55.0,1750,1,102.67,euro,685.3
+2017-05,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,236,11.844,1.6,68.0,2330,1,102.67,euro,685.3
+2017-05,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,33,5.659,1.2,72.0,1730,0,102.67,dolar,643.21
+2017-05,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,21,5.379,1.2,61.0,1800,0,102.67,dolar,643.21
+2017-05,Maibatsu Mule 1.5 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,5,8.864,1.5,85.0,2145,0,102.67,dolar,643.21
+2017-05,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,48,10.543,1.5,55.0,1960,1,102.67,euro,685.3
+2017-05,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,8,9.74,1.6,60.0,1881,0,102.67,euro,685.3
+2017-05,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,8,10.325,1.6,67.0,1950,0,102.67,dolar,643.21
+2017-06,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,14,6.621,1.5,75.0,1955,0,102.48,dolar,661.2
+2017-06,BF Surfer 1.6 D,BF Surfer,BF,BF,europeo,149,10.696,1.6,75.0,2270,1,102.48,euro,706.44
+2017-06,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,21,13.608,1.5,97.0,2100,1,102.48,euro,706.44
+2017-06,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,128,7.232,1.2,60.0,1850,0,102.48,dolar,661.2
+2017-06,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,13,12.851,1.3,65.0,2330,1,102.48,euro,706.44
+2017-06,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,5,14.322,1.6,76.0,2505,1,102.48,euro,706.44
+2017-06,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,44,8.615,1.4,62.0,1767,0,102.48,dolar,661.2
+2017-06,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,78,10.799,1.2,55.0,1700,1,102.48,euro,706.44
+2017-06,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,7,8.653,1.4,56.0,1680,0,102.48,euro,706.44
+2017-06,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,17,5.453,1.2,63.0,1850,0,102.48,dolar,661.2
+2017-06,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,16,5.781,1.2,64.0,1810,0,102.48,dolar,661.2
+2017-06,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,95,10.309,1.6,68.0,2330,1,102.48,euro,706.44
+2017-06,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,10,12.069,1.3,55.0,1750,1,102.48,euro,706.44
+2017-06,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,153,11.353,1.6,68.0,2330,1,102.48,euro,706.44
+2017-06,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,24,5.827,1.2,72.0,1730,0,102.48,dolar,661.2
+2017-06,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,15,6.029,1.2,61.0,1800,0,102.48,dolar,661.2
+2017-06,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,19,11.299,1.5,55.0,1960,1,102.48,euro,706.44
+2017-06,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,16,9.936,1.6,60.0,1881,0,102.48,euro,706.44
+2017-06,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,6,10.763,1.6,67.0,1950,0,102.48,dolar,661.2
+2017-07,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,9,6.295,1.5,75.0,1955,0,101.61,dolar,655.74
+2017-07,BF Surfer 1.6 D,BF Surfer,BF,BF,europeo,120,9.966,1.6,75.0,2270,1,101.61,euro,701.8
+2017-07,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,5,14.138,1.5,97.0,2100,1,101.61,euro,701.8
+2017-07,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,167,6.58,1.2,60.0,1850,0,101.61,dolar,655.74
+2017-07,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,17,12.255,1.3,65.0,2330,1,101.61,euro,701.8
+2017-07,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,14,13.597,1.6,76.0,2505,1,101.61,euro,701.8
+2017-07,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,41,8.406,1.4,62.0,1767,0,101.61,dolar,655.74
+2017-07,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,82,10.33,1.2,55.0,1700,1,101.61,euro,701.8
+2017-07,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,112,8.28,1.4,56.0,1680,0,101.61,euro,701.8
+2017-07,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,26,5.487,1.2,63.0,1850,0,101.61,dolar,655.74
+2017-07,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,7,5.821,1.2,64.0,1810,0,101.61,dolar,655.74
+2017-07,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,78,11.16,1.6,68.0,2330,1,101.61,euro,701.8
+2017-07,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,15,11.253,1.3,55.0,1750,1,101.61,euro,701.8
+2017-07,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,248,11.34,1.6,68.0,2330,1,101.61,euro,701.8
+2017-07,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,22,5.99,1.2,72.0,1730,0,101.61,dolar,655.74
+2017-07,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,13,5.446,1.2,61.0,1800,0,101.61,dolar,655.74
+2017-07,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,38,9.599,1.5,55.0,1960,1,101.61,euro,701.8
+2017-07,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,7,9.896,1.6,60.0,1881,0,101.61,euro,701.8
+2017-07,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,6,11.221,1.6,67.0,1950,0,101.61,dolar,655.74
+2017-08,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,5,6.108,1.5,75.0,1955,0,100.65,dolar,671.54
+2017-08,BF Surfer 1.6 D,BF Surfer,BF,BF,europeo,49,9.668,1.6,75.0,2270,1,100.65,euro,741.86
+2017-08,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,11,13.09,1.5,97.0,2100,1,100.65,euro,741.86
+2017-08,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,175,6.23,1.2,60.0,1850,0,100.65,dolar,671.54
+2017-08,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,19,11.87,1.3,65.0,2330,1,100.65,euro,741.86
+2017-08,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,10,13.453,1.6,76.0,2505,1,100.65,euro,741.86
+2017-08,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,57,8.207,1.4,62.0,1767,0,100.65,dolar,671.54
+2017-08,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,87,10.009,1.2,55.0,1700,1,100.65,euro,741.86
+2017-08,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,24,8.744,1.4,56.0,1680,0,100.65,euro,741.86
+2017-08,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,80,5.763,1.2,63.0,1850,0,100.65,dolar,671.54
+2017-08,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,89,10.258,1.6,68.0,2330,1,100.65,euro,741.86
+2017-08,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,6,11.491,1.3,55.0,1750,1,100.65,euro,741.86
+2017-08,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,271,10.749,1.6,68.0,2330,1,100.65,euro,741.86
+2017-08,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,33,5.326,1.2,72.0,1730,0,100.65,dolar,671.54
+2017-08,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,14,5.406,1.2,61.0,1800,0,100.65,dolar,671.54
+2017-08,Maibatsu Mule 1.5 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,6,8.691,1.5,85.0,2145,0,100.65,dolar,671.54
+2017-08,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,44,10.777,1.5,55.0,1960,1,100.65,euro,741.86
+2017-08,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,8,8.903,1.6,60.0,1881,0,100.65,euro,741.86
+2017-08,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,5,10.201,1.6,67.0,1950,0,100.65,dolar,671.54
+2017-09,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,13,6.578,1.5,75.0,1955,0,99.1,dolar,665.15
+2017-09,BF Surfer 1.6 D,BF Surfer,BF,BF,europeo,6,10.594,1.6,75.0,2270,1,99.1,euro,747.03
+2017-09,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,32,12.604,1.5,97.0,2100,1,99.1,euro,747.03
+2017-09,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,175,6.45,1.2,60.0,1850,0,99.1,dolar,665.15
+2017-09,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,39,11.792,1.3,65.0,2330,1,99.1,euro,747.03
+2017-09,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,26,12.583,1.6,76.0,2505,1,99.1,euro,747.03
+2017-09,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,81,8.301,1.4,62.0,1767,0,99.1,dolar,665.15
+2017-09,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,122,9.15,1.2,55.0,1700,1,99.1,euro,747.03
+2017-09,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,37,8.457,1.4,56.0,1680,0,99.1,euro,747.03
+2017-09,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,26,5.052,1.2,63.0,1850,0,99.1,dolar,665.15
+2017-09,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,316,9.74,1.6,68.0,2330,1,99.1,euro,747.03
+2017-09,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,14,11.853,1.3,55.0,1750,1,99.1,euro,747.03
+2017-09,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,411,10.165,1.6,68.0,2330,1,99.1,euro,747.03
+2017-09,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,21,5.511,1.2,72.0,1730,0,99.1,dolar,665.15
+2017-09,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,14,4.769,1.2,61.0,1800,0,99.1,dolar,665.15
+2017-09,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,52,10.017,1.5,55.0,1960,1,99.1,euro,747.03
+2017-09,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,9,9.143,1.6,60.0,1881,0,99.1,euro,747.03
+2017-09,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,9,9.749,1.6,67.0,1950,0,99.1,dolar,665.15
+2017-10,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,17,6.176,1.5,75.0,1955,0,98.38,dolar,658.17
+2017-10,BF Surfer 1.6 D,BF Surfer,BF,BF,europeo,6,10.095,1.6,75.0,2270,1,98.38,euro,757.53
+2017-10,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,18,13.141,1.5,97.0,2100,1,98.38,euro,757.53
+2017-10,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,210,6.441,1.2,60.0,1850,0,98.38,dolar,658.17
+2017-10,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,33,11.99,1.3,65.0,2330,1,98.38,euro,757.53
+2017-10,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,20,12.207,1.6,76.0,2505,1,98.38,euro,757.53
+2017-10,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,58,7.656,1.4,62.0,1767,0,98.38,dolar,658.17
+2017-10,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,182,9.0,1.2,55.0,1700,1,98.38,euro,757.53
+2017-10,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,24,9.005,1.4,56.0,1680,0,98.38,euro,757.53
+2017-10,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,41,5.471,1.2,63.0,1850,0,98.38,dolar,658.17
+2017-10,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,166,9.985,1.6,68.0,2330,1,98.38,euro,757.53
+2017-10,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,6,11.348,1.3,55.0,1750,1,98.38,euro,757.53
+2017-10,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,445,9.559,1.6,68.0,2330,1,98.38,euro,757.53
+2017-10,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,19,5.335,1.2,72.0,1730,0,98.38,dolar,658.17
+2017-10,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,26,5.041,1.2,61.0,1800,0,98.38,dolar,658.17
+2017-10,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,29,9.772,1.5,55.0,1960,1,98.38,euro,757.53
+2017-10,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,7,8.901,1.6,60.0,1881,0,98.38,euro,757.53
+2017-10,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,21,10.18,1.6,67.0,1950,0,98.38,dolar,658.17
+2017-11,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,17,6.677,1.5,75.0,1955,0,99.14,dolar,644.24
+2017-11,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,10,13.028,1.5,97.0,2100,1,99.14,euro,761.34
+2017-11,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,181,5.954,1.2,60.0,1850,0,99.14,dolar,644.24
+2017-11,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,35,12.466,1.3,65.0,2330,1,99.14,euro,761.34
+2017-11,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,14,13.034,1.6,76.0,2505,1,99.14,euro,761.34
+2017-11,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,29,8.095,1.4,62.0,1767,0,99.14,dolar,644.24
+2017-11,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,104,9.028,1.2,55.0,1700,1,99.14,euro,761.34
+2017-11,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,27,9.009,1.4,56.0,1680,0,99.14,euro,761.34
+2017-11,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,23,4.968,1.2,63.0,1850,0,99.14,dolar,644.24
+2017-11,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,5,5.761,1.2,64.0,1810,0,99.14,dolar,644.24
+2017-11,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,347,9.506,1.6,68.0,2330,1,99.14,euro,761.34
+2017-11,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,6,11.504,1.3,55.0,1750,1,99.14,euro,761.34
+2017-11,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,654,10.317,1.6,68.0,2330,1,99.14,euro,761.34
+2017-11,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,31,4.418,1.2,72.0,1730,0,99.14,dolar,644.24
+2017-11,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,20,5.373,1.2,61.0,1800,0,99.14,dolar,644.24
+2017-11,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,47,9.696,1.5,55.0,1960,1,99.14,euro,761.34
+2017-11,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,11,8.992,1.6,60.0,1881,0,99.14,euro,761.34
+2017-11,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,15,9.479,1.6,67.0,1950,0,99.14,dolar,644.24
+2017-12,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,12,6.736,1.5,75.0,1955,0,100.14,dolar,625.54
+2017-12,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,35,12.748,1.5,97.0,2100,1,100.14,euro,744.68
+2017-12,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,173,6.901,1.2,60.0,1850,0,100.14,dolar,625.54
+2017-12,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,22,12.451,1.3,65.0,2330,1,100.14,euro,744.68
+2017-12,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,15,13.016,1.6,76.0,2505,1,100.14,euro,744.68
+2017-12,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,24,8.376,1.4,62.0,1767,0,100.14,dolar,625.54
+2017-12,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,77,9.759,1.2,55.0,1700,1,100.14,euro,744.68
+2017-12,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,13,8.295,1.4,56.0,1680,0,100.14,euro,744.68
+2017-12,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,38,6.001,1.2,63.0,1850,0,100.14,dolar,625.54
+2017-12,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,208,10.611,1.6,68.0,2330,1,100.14,euro,744.68
+2017-12,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,14,11.108,1.3,55.0,1750,1,100.14,euro,744.68
+2017-12,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,166,11.032,1.6,68.0,2330,1,100.14,euro,744.68
+2017-12,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,28,5.543,1.2,72.0,1730,0,100.14,dolar,625.54
+2017-12,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,25,4.998,1.2,61.0,1800,0,100.14,dolar,625.54
+2017-12,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,52,9.848,1.5,55.0,1960,1,100.14,euro,744.68
+2017-12,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,13,8.893,1.6,60.0,1881,0,100.14,euro,744.68
+2017-12,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,9,9.483,1.6,67.0,1950,0,100.14,dolar,625.54
+2018-01,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,22,5.766,1.5,75.0,1955,0,96.53,dolar,629.55
+2018-01,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,212,5.898,1.2,60.0,1850,0,96.53,dolar,629.55
+2018-01,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,25,10.97,1.3,65.0,2330,1,96.53,euro,740.87
+2018-01,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,25,11.82,1.6,76.0,2505,1,96.53,euro,740.87
+2018-01,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,49,7.118,1.4,62.0,1767,0,96.53,dolar,629.55
+2018-01,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,128,9.108,1.2,55.0,1700,1,96.53,euro,740.87
+2018-01,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,31,8.568,1.4,56.0,1680,0,96.53,euro,740.87
+2018-01,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,42,4.916,1.2,63.0,1850,0,96.53,dolar,629.55
+2018-01,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,162,9.582,1.6,68.0,2330,1,96.53,euro,740.87
+2018-01,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,29,9.956,1.3,55.0,1750,1,96.53,euro,740.87
+2018-01,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,613,9.677,1.6,68.0,2330,1,96.53,euro,740.87
+2018-01,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,24,4.66,1.2,72.0,1730,0,96.53,dolar,629.55
+2018-01,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,20,5.036,1.2,61.0,1800,0,96.53,dolar,629.55
+2018-01,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,90,8.985,1.5,55.0,1960,1,96.53,euro,740.87
+2018-01,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,8,7.903,1.6,60.0,1881,0,96.53,euro,740.87
+2018-01,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,11,8.727,1.6,67.0,1950,0,96.53,dolar,629.55
+2018-02,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,20,6.234,1.5,75.0,1955,0,96.28,dolar,633.77
+2018-02,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,10,11.823,1.5,97.0,2100,1,96.28,euro,743.89
+2018-02,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,148,5.6,1.2,60.0,1850,0,96.28,dolar,633.77
+2018-02,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,25,11.195,1.3,65.0,2330,1,96.28,euro,743.89
+2018-02,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,16,12.215,1.6,76.0,2505,1,96.28,euro,743.89
+2018-02,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,51,6.139,1.4,62.0,1767,0,96.28,dolar,633.77
+2018-02,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,75,9.612,1.2,55.0,1700,1,96.28,euro,743.89
+2018-02,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,22,7.835,1.4,56.0,1680,0,96.28,euro,743.89
+2018-02,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,20,4.745,1.2,63.0,1850,0,96.28,dolar,633.77
+2018-02,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,10,4.925,1.2,64.0,1810,0,96.28,dolar,633.77
+2018-02,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,122,9.933,1.6,68.0,2330,1,96.28,euro,743.89
+2018-02,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,13,10.366,1.3,55.0,1750,1,96.28,euro,743.89
+2018-02,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,154,9.609,1.6,68.0,2330,1,96.28,euro,743.89
+2018-02,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,29,5.734,1.2,72.0,1730,0,96.28,dolar,633.77
+2018-02,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,14,4.711,1.2,61.0,1800,0,96.28,dolar,633.77
+2018-02,Maibatsu Mule 1.5 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,8,7.541,1.5,85.0,2145,0,96.28,dolar,633.77
+2018-02,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,39,9.8,1.5,55.0,1960,1,96.28,euro,743.89
+2018-02,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,16,8.72,1.6,67.0,1950,0,96.28,dolar,633.77
+2018-03,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,10,6.363,1.5,75.0,1955,0,96.95,dolar,636.92
+2018-03,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,33,12.348,1.5,97.0,2100,1,96.95,euro,753.57
+2018-03,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,192,6.201,1.2,60.0,1850,0,96.95,dolar,636.92
+2018-03,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,16,11.344,1.3,65.0,2330,1,96.95,euro,753.57
+2018-03,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,42,11.815,1.6,76.0,2505,1,96.95,euro,753.57
+2018-03,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,67,6.659,1.4,62.0,1767,0,96.95,dolar,636.92
+2018-03,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,90,9.267,1.2,55.0,1700,1,96.95,euro,753.57
+2018-03,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,51,8.304,1.4,56.0,1680,0,96.95,euro,753.57
+2018-03,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,31,5.101,1.2,63.0,1850,0,96.95,dolar,636.92
+2018-03,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,12,5.177,1.2,64.0,1810,0,96.95,dolar,636.92
+2018-03,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,219,9.395,1.6,68.0,2330,1,96.95,euro,753.57
+2018-03,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,33,9.975,1.3,55.0,1750,1,96.95,euro,753.57
+2018-03,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,220,10.242,1.6,68.0,2330,1,96.95,euro,753.57
+2018-03,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,41,4.414,1.2,72.0,1730,0,96.95,dolar,636.92
+2018-03,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,26,4.743,1.2,61.0,1800,0,96.95,dolar,636.92
+2018-03,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,156,8.83,1.5,55.0,1960,1,96.95,euro,753.57
+2018-03,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,116,7.043,1.6,60.0,1881,0,96.95,euro,753.57
+2018-03,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,8,8.981,1.6,67.0,1950,0,96.95,dolar,636.92
+2018-04,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,20,6.006,1.5,75.0,1955,0,96.48,dolar,605.53
+2018-04,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,27,12.614,1.5,97.0,2100,1,96.48,euro,737.74
+2018-04,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,192,5.714,1.2,60.0,1850,0,96.48,dolar,605.53
+2018-04,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,24,11.095,1.3,65.0,2330,1,96.48,euro,737.74
+2018-04,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,54,12.066,1.6,76.0,2505,1,96.48,euro,737.74
+2018-04,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,67,5.909,1.4,62.0,1767,0,96.48,dolar,605.53
+2018-04,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,72,10.303,1.2,55.0,1700,1,96.48,euro,737.74
+2018-04,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,52,8.021,1.4,56.0,1680,0,96.48,euro,737.74
+2018-04,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,32,4.966,1.2,63.0,1850,0,96.48,dolar,605.53
+2018-04,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,384,9.374,1.6,68.0,2330,1,96.48,euro,737.74
+2018-04,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,20,10.158,1.3,55.0,1750,1,96.48,euro,737.74
+2018-04,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,469,9.157,1.6,68.0,2330,1,96.48,euro,737.74
+2018-04,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,52,5.13,1.2,72.0,1730,0,96.48,dolar,605.53
+2018-04,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,43,5.352,1.2,61.0,1800,0,96.48,dolar,605.53
+2018-04,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,130,9.079,1.5,55.0,1960,1,96.48,euro,737.74
+2018-04,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,11,8.816,1.6,67.0,1950,0,96.48,dolar,605.53
+2018-05,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,12,6.572,1.5,75.0,1955,0,98.46,dolar,596.84
+2018-05,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,63,13.479,1.5,97.0,2100,1,98.46,euro,737.52
+2018-05,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,214,6.155,1.2,60.0,1850,0,98.46,dolar,596.84
+2018-05,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,23,11.639,1.3,65.0,2330,1,98.46,euro,737.52
+2018-05,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,20,11.934,1.6,76.0,2505,1,98.46,euro,737.52
+2018-05,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,68,6.728,1.4,62.0,1767,0,98.46,dolar,596.84
+2018-05,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,85,9.714,1.2,55.0,1700,1,98.46,euro,737.52
+2018-05,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,54,8.311,1.4,56.0,1680,0,98.46,euro,737.52
+2018-05,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,22,6.323,1.2,63.0,1850,0,98.46,dolar,596.84
+2018-05,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,14,5.197,1.2,64.0,1810,0,98.46,dolar,596.84
+2018-05,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,163,10.133,1.6,68.0,2330,1,98.46,euro,737.52
+2018-05,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,9,10.836,1.3,55.0,1750,1,98.46,euro,737.52
+2018-05,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,258,10.286,1.6,68.0,2330,1,98.46,euro,737.52
+2018-05,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,42,4.792,1.2,72.0,1730,0,98.46,dolar,596.84
+2018-05,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,28,5.369,1.2,61.0,1800,0,98.46,dolar,596.84
+2018-05,Maibatsu Mule 1.5 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,7,7.735,1.5,85.0,2145,0,98.46,dolar,596.84
+2018-05,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,51,9.739,1.5,55.0,1960,1,98.46,euro,737.52
+2018-05,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,15,8.718,1.6,67.0,1950,0,98.46,dolar,596.84
+2018-06,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,15,6.567,1.5,75.0,1955,0,98.71,dolar,603.45
+2018-06,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,83,13.452,1.5,97.0,2100,1,98.71,euro,744.02
+2018-06,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,151,5.856,1.2,60.0,1850,0,98.71,dolar,603.45
+2018-06,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,23,11.95,1.3,65.0,2330,1,98.71,euro,744.02
+2018-06,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,36,12.178,1.6,76.0,2505,1,98.71,euro,744.02
+2018-06,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,45,8.078,1.4,62.0,1767,0,98.71,dolar,603.45
+2018-06,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,84,9.489,1.2,55.0,1700,1,98.71,euro,744.02
+2018-06,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,26,8.601,1.4,56.0,1680,0,98.71,euro,744.02
+2018-06,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,19,5.515,1.2,63.0,1850,0,98.71,dolar,603.45
+2018-06,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,11,4.926,1.2,64.0,1810,0,98.71,dolar,603.45
+2018-06,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,145,10.393,1.6,68.0,2330,1,98.71,euro,744.02
+2018-06,Truffade Adder 1.3 D,Truffade Adder,Truffade,Grupo Truffade,europeo,8,10.856,1.3,55.0,1750,1,98.71,euro,744.02
+2018-06,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,217,10.391,1.6,68.0,2330,1,98.71,euro,744.02
+2018-06,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,37,4.986,1.2,72.0,1730,0,98.71,dolar,603.45
+2018-06,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,27,5.525,1.2,61.0,1800,0,98.71,dolar,603.45
+2018-06,Maibatsu Mule 1.5 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,5,7.119,1.5,85.0,2145,0,98.71,dolar,603.45
+2018-06,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,39,9.942,1.5,55.0,1960,1,98.71,euro,744.02
+2018-06,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,21,7.893,1.6,67.0,1950,0,98.71,dolar,603.45
+2018-07,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,14,7.129,1.5,75.0,1955,0,99.79,dolar,600.55
+2018-07,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,12,13.164,1.5,97.0,2100,1,99.79,euro,737.71
+2018-07,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,146,5.978,1.2,60.0,1850,0,99.79,dolar,600.55
+2018-07,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,8,12.567,1.6,76.0,2505,1,99.79,euro,737.71
+2018-07,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,22,7.609,1.4,62.0,1767,0,99.79,dolar,600.55
+2018-07,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,65,9.822,1.2,55.0,1700,1,99.79,euro,737.71
+2018-07,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,29,8.35,1.4,56.0,1680,0,99.79,euro,737.71
+2018-07,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,18,5.226,1.2,63.0,1850,0,99.79,dolar,600.55
+2018-07,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,12,5.146,1.2,64.0,1810,0,99.79,dolar,600.55
+2018-07,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,112,9.787,1.6,68.0,2330,1,99.79,euro,737.71
+2018-07,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,206,10.835,1.6,68.0,2330,1,99.79,euro,737.71
+2018-07,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,39,5.392,1.2,72.0,1730,0,99.79,dolar,600.55
+2018-07,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,27,5.387,1.2,61.0,1800,0,99.79,dolar,600.55
+2018-07,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,47,10.231,1.5,55.0,1960,1,99.79,euro,737.71
+2018-07,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,6,8.221,1.6,67.0,1950,0,99.79,dolar,600.55
+2018-08,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,12,6.87,1.5,75.0,1955,0,99.41,dolar,626.12
+2018-08,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,19,13.088,1.5,97.0,2100,1,99.41,euro,740.55
+2018-08,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,164,6.212,1.2,60.0,1850,0,99.41,dolar,626.12
+2018-08,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,15,13.254,1.6,76.0,2505,1,99.41,euro,740.55
+2018-08,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,23,7.099,1.4,62.0,1767,0,99.41,dolar,626.12
+2018-08,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,48,10.094,1.2,55.0,1700,1,99.41,euro,740.55
+2018-08,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,25,8.337,1.4,56.0,1680,0,99.41,euro,740.55
+2018-08,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,21,5.611,1.2,63.0,1850,0,99.41,dolar,626.12
+2018-08,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,13,4.886,1.2,64.0,1810,0,99.41,dolar,626.12
+2018-08,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,107,10.161,1.6,68.0,2330,1,99.41,euro,740.55
+2018-08,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,166,10.65,1.6,68.0,2330,1,99.41,euro,740.55
+2018-08,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,39,5.31,1.2,72.0,1730,0,99.41,dolar,626.12
+2018-08,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,21,5.251,1.2,61.0,1800,0,99.41,dolar,626.12
+2018-08,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,53,9.721,1.5,55.0,1960,1,99.41,euro,740.55
+2018-08,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,13,8.494,1.6,67.0,1950,0,99.41,dolar,626.12
+2018-09,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,11,6.752,1.5,75.0,1955,0,102.01,dolar,636.15
+2018-09,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,21,13.737,1.5,97.0,2100,1,102.01,euro,742.47
+2018-09,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,123,5.857,1.2,60.0,1850,0,102.01,dolar,636.15
+2018-09,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,6,14.006,1.6,76.0,2505,1,102.01,euro,742.47
+2018-09,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,26,8.333,1.4,62.0,1767,0,102.01,dolar,636.15
+2018-09,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,66,10.43,1.2,55.0,1700,1,102.01,euro,742.47
+2018-09,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,28,8.725,1.4,56.0,1680,0,102.01,euro,742.47
+2018-09,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,8,5.862,1.2,63.0,1850,0,102.01,dolar,636.15
+2018-09,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,10,5.315,1.2,64.0,1810,0,102.01,dolar,636.15
+2018-09,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,144,10.28,1.6,68.0,2330,1,102.01,euro,742.47
+2018-09,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,156,11.024,1.6,68.0,2330,1,102.01,euro,742.47
+2018-09,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,25,5.542,1.2,72.0,1730,0,102.01,dolar,636.15
+2018-09,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,21,5.672,1.2,61.0,1800,0,102.01,dolar,636.15
+2018-09,Maibatsu Mule 1.5 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,6,8.186,1.5,85.0,2145,0,102.01,dolar,636.15
+2018-09,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,14,10.611,1.5,55.0,1960,1,102.01,euro,742.47
+2018-09,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,9,9.063,1.6,67.0,1950,0,102.01,dolar,636.15
+2018-10,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,7,7.222,1.5,75.0,1955,0,101.6,dolar,652.41
+2018-10,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,9,13.976,1.5,97.0,2100,1,101.6,euro,762.36
+2018-10,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,175,5.951,1.2,60.0,1850,0,101.6,dolar,652.41
+2018-10,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,7,12.534,1.3,65.0,2330,1,101.6,euro,762.36
+2018-10,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,9,13.418,1.6,76.0,2505,1,101.6,euro,762.36
+2018-10,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,31,8.767,1.4,62.0,1767,0,101.6,dolar,652.41
+2018-10,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,112,9.388,1.2,55.0,1700,1,101.6,euro,762.36
+2018-10,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,38,8.191,1.4,56.0,1680,0,101.6,euro,762.36
+2018-10,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,18,5.903,1.2,63.0,1850,0,101.6,dolar,652.41
+2018-10,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,4,5.674,1.2,64.0,1810,0,101.6,dolar,652.41
+2018-10,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,145,10.215,1.6,68.0,2330,1,101.6,euro,762.36
+2018-10,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,117,11.854,1.6,68.0,2330,1,101.6,euro,762.36
+2018-10,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,30,5.781,1.2,72.0,1730,0,101.6,dolar,652.41
+2018-10,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,26,5.046,1.2,61.0,1800,0,101.6,dolar,652.41
+2018-10,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,26,10.262,1.5,55.0,1960,1,101.6,euro,762.36
+2018-10,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,4,9.307,1.6,60.0,1881,0,101.6,euro,762.36
+2018-10,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,8,9.465,1.6,67.0,1950,0,101.6,dolar,652.41
+2018-11,BF Surfer 2.0 D,BF Surfer,BF,BF,europeo,5,14.424,2.0,103.0,2172,1,100.79,euro,758.59
+2018-11,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,14,13.658,1.5,97.0,2100,1,100.79,euro,758.59
+2018-11,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,159,6.097,1.2,60.0,1850,0,100.79,dolar,656.25
+2018-11,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,41,12.181,1.3,65.0,2330,1,100.79,euro,758.59
+2018-11,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,12,12.739,1.6,76.0,2505,1,100.79,euro,758.59
+2018-11,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,25,8.285,1.4,62.0,1767,0,100.79,dolar,656.25
+2018-11,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,80,9.62,1.2,55.0,1700,1,100.79,euro,758.59
+2018-11,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,50,7.906,1.4,56.0,1680,0,100.79,euro,758.59
+2018-11,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,11,5.769,1.2,63.0,1850,0,100.79,dolar,656.25
+2018-11,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,7,6.172,1.2,64.0,1810,0,100.79,dolar,656.25
+2018-11,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,162,9.801,1.6,68.0,2330,1,100.79,euro,758.59
+2018-11,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,118,11.654,1.6,68.0,2330,1,100.79,euro,758.59
+2018-11,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,30,5.196,1.2,72.0,1730,0,100.79,dolar,656.25
+2018-11,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,31,5.057,1.2,61.0,1800,0,100.79,dolar,656.25
+2018-11,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,33,9.784,1.5,55.0,1960,1,100.79,euro,758.59
+2018-11,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,6,9.423,1.6,67.0,1950,0,100.79,dolar,656.25
+2018-12,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,7,13.283,1.5,97.0,2100,1,101.18,euro,793.77
+2018-12,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,116,6.582,1.2,60.0,1850,0,101.18,dolar,680.91
+2018-12,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,18,11.742,1.3,65.0,2330,1,101.18,euro,793.77
+2018-12,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,7,12.861,1.6,76.0,2505,1,101.18,euro,793.77
+2018-12,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,13,8.156,1.4,62.0,1767,0,101.18,dolar,680.91
+2018-12,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,56,10.65,1.2,55.0,1700,1,101.18,euro,793.77
+2018-12,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,53,7.759,1.4,56.0,1680,0,101.18,euro,793.77
+2018-12,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,7,5.634,1.2,63.0,1850,0,101.18,dolar,680.91
+2018-12,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,44,11.311,1.6,68.0,2330,1,101.18,euro,793.77
+2018-12,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,288,10.7,1.6,68.0,2330,1,101.18,euro,793.77
+2018-12,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,30,5.666,1.2,72.0,1730,0,101.18,dolar,680.91
+2018-12,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,23,5.22,1.2,61.0,1800,0,101.18,dolar,680.91
+2018-12,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,43,9.489,1.5,55.0,1960,1,101.18,euro,793.77
+2019-01,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,8,7.136,1.5,75.0,1955,0,101.61,dolar,676.84
+2019-01,BF Surfer 2.0 D,BF Surfer,BF,BF,europeo,4,14.039,2.0,103.0,2172,1,101.61,euro,777.8
+2019-01,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,17,13.51,1.5,97.0,2100,1,101.61,euro,777.8
+2019-01,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,124,6.086,1.2,60.0,1850,0,101.61,dolar,676.84
+2019-01,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,37,12.313,1.3,65.0,2330,1,101.61,euro,777.8
+2019-01,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,6,13.223,1.6,76.0,2505,1,101.61,euro,777.8
+2019-01,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,32,7.935,1.4,62.0,1767,0,101.61,dolar,676.84
+2019-01,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,49,10.354,1.2,55.0,1700,1,101.61,euro,777.8
+2019-01,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,43,8.248,1.4,56.0,1680,0,101.61,euro,777.8
+2019-01,Dinka Blista 1.2 G,Dinka Blista,Dinka,Grupo Dinka,asiatico,7,5.371,1.2,63.0,1850,0,101.61,dolar,676.84
+2019-01,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,134,9.921,1.6,68.0,2330,1,101.61,euro,777.8
+2019-01,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,173,11.569,1.6,68.0,2330,1,101.61,euro,777.8
+2019-01,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,39,5.631,1.2,72.0,1730,0,101.61,dolar,676.84
+2019-01,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,23,5.902,1.2,61.0,1800,0,101.61,dolar,676.84
+2019-01,Maibatsu Mule 1.5 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,4,7.926,1.5,85.0,2145,0,101.61,dolar,676.84
+2019-01,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,25,10.639,1.5,55.0,1960,1,101.61,euro,777.8
+2019-01,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,4,9.513,1.6,67.0,1950,0,101.61,dolar,676.84
+2019-02,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,8,6.836,1.5,75.0,1955,0,99.28,dolar,677.61
+2019-02,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,6,13.417,1.5,97.0,2100,1,99.28,euro,769.72
+2019-02,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,135,6.73,1.2,60.0,1850,0,99.28,dolar,677.61
+2019-02,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,32,11.359,1.3,65.0,2330,1,99.28,euro,769.72
+2019-02,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,33,8.391,1.4,62.0,1767,0,99.28,dolar,677.61
+2019-02,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,62,9.76,1.2,55.0,1700,1,99.28,euro,769.72
+2019-02,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,20,7.859,1.4,56.0,1680,0,99.28,euro,769.72
+2019-02,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,12,5.532,1.2,64.0,1810,0,99.28,dolar,677.61
+2019-02,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,25,11.514,1.6,68.0,2330,1,99.28,euro,769.72
+2019-02,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,319,10.36,1.6,68.0,2330,1,99.28,euro,769.72
+2019-02,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,31,4.989,1.2,72.0,1730,0,99.28,dolar,677.61
+2019-02,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,20,5.215,1.2,61.0,1800,0,99.28,dolar,677.61
+2019-02,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,62,9.99,1.5,55.0,1960,1,99.28,euro,769.72
+2019-02,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,5,8.506,1.6,60.0,1881,0,99.28,euro,769.72
+2019-03,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,5,7.427,1.5,75.0,1955,0,100.46,dolar,681.99
+2019-03,BF Surfer 2.0 D,BF Surfer,BF,BF,europeo,5,13.737,2.0,103.0,2172,1,100.46,euro,775.5
+2019-03,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,15,13.798,1.5,97.0,2100,1,100.46,euro,775.5
+2019-03,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,131,6.492,1.2,60.0,1850,0,100.46,dolar,681.99
+2019-03,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,14,11.558,1.3,65.0,2330,1,100.46,euro,775.5
+2019-03,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,13,12.424,1.6,76.0,2505,1,100.46,euro,775.5
+2019-03,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,28,8.158,1.4,62.0,1767,0,100.46,dolar,681.99
+2019-03,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,64,10.83,1.2,55.0,1700,1,100.46,euro,775.5
+2019-03,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,37,8.642,1.4,56.0,1680,0,100.46,euro,775.5
+2019-03,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,7,5.661,1.2,64.0,1810,0,100.46,dolar,681.99
+2019-03,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,158,9.641,1.6,68.0,2330,1,100.46,euro,775.5
+2019-03,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,522,9.959,1.6,68.0,2330,1,100.46,euro,775.5
+2019-03,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,35,5.286,1.2,72.0,1730,0,100.46,dolar,681.99
+2019-03,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,28,5.382,1.2,61.0,1800,0,100.46,dolar,681.99
+2019-03,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,19,10.476,1.5,55.0,1960,1,100.46,euro,775.5
+2019-03,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,8,9.79,1.6,67.0,1950,0,100.46,dolar,681.99
+2019-04,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,6,6.877,1.5,75.0,1955,0,100.21,dolar,677.06
+2019-04,BF Surfer 2.0 D,BF Surfer,BF,BF,europeo,6,13.601,2.0,103.0,2172,1,100.21,euro,772.91
+2019-04,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,11,13.755,1.5,97.0,2100,1,100.21,euro,772.91
+2019-04,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,132,6.418,1.2,60.0,1850,0,100.21,dolar,677.06
+2019-04,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,20,11.988,1.3,65.0,2330,1,100.21,euro,772.91
+2019-04,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,9,12.749,1.6,76.0,2505,1,100.21,euro,772.91
+2019-04,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,26,7.481,1.4,62.0,1767,0,100.21,dolar,677.06
+2019-04,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,79,9.773,1.2,55.0,1700,1,100.21,euro,772.91
+2019-04,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,47,8.118,1.4,56.0,1680,0,100.21,euro,772.91
+2019-04,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,101,9.678,1.6,68.0,2330,1,100.21,euro,772.91
+2019-04,Truffade Nero 1.5 D,Truffade Nero,Truffade,Grupo Truffade,europeo,5,15.986,1.5,75.0,2370,1,100.21,euro,772.91
+2019-04,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,474,10.361,1.6,68.0,2330,1,100.21,euro,772.91
+2019-04,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,34,5.705,1.2,72.0,1730,0,100.21,dolar,677.06
+2019-04,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,25,5.164,1.2,61.0,1800,0,100.21,dolar,677.06
+2019-04,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,58,9.549,1.5,55.0,1960,1,100.21,euro,772.91
+2019-04,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,7,8.046,1.6,67.0,1950,0,100.21,dolar,677.06
+2019-05,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,6,6.926,1.5,75.0,1955,0,102.18,dolar,656.3
+2019-05,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,13,14.459,1.5,97.0,2100,1,102.18,euro,744.89
+2019-05,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,119,6.552,1.2,60.0,1850,0,102.18,dolar,656.3
+2019-05,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,13,11.993,1.3,65.0,2330,1,102.18,euro,744.89
+2019-05,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,7,13.054,1.6,76.0,2505,1,102.18,euro,744.89
+2019-05,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,33,7.341,1.4,62.0,1767,0,102.18,dolar,656.3
+2019-05,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,48,10.08,1.2,55.0,1700,1,102.18,euro,744.89
+2019-05,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,31,8.645,1.4,56.0,1680,0,102.18,euro,744.89
+2019-05,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,5,5.914,1.2,64.0,1810,0,102.18,dolar,656.3
+2019-05,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,23,11.787,1.6,68.0,2330,1,102.18,euro,744.89
+2019-05,Truffade Nero 1.5 D,Truffade Nero,Truffade,Grupo Truffade,europeo,7,18.539,1.5,75.0,2370,1,102.18,euro,744.89
+2019-05,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,185,11.44,1.6,68.0,2330,1,102.18,euro,744.89
+2019-05,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,27,5.776,1.2,72.0,1730,0,102.18,dolar,656.3
+2019-05,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,26,5.96,1.2,61.0,1800,0,102.18,dolar,656.3
+2019-05,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,73,9.156,1.5,55.0,1960,1,102.18,euro,744.89
+2019-05,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,7,8.276,1.6,60.0,1881,0,102.18,euro,744.89
+2019-06,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,14,6.142,1.5,75.0,1955,0,102.59,dolar,667.68
+2019-06,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,5,14.252,1.5,97.0,2100,1,102.59,euro,754.62
+2019-06,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,123,6.876,1.2,60.0,1850,0,102.59,dolar,667.68
+2019-06,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,17,12.185,1.3,65.0,2330,1,102.59,euro,754.62
+2019-06,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,9,13.294,1.6,76.0,2505,1,102.59,euro,754.62
+2019-06,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,30,7.416,1.4,62.0,1767,0,102.59,dolar,667.68
+2019-06,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,37,9.983,1.2,55.0,1700,1,102.59,euro,754.62
+2019-06,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,28,7.815,1.4,56.0,1680,0,102.59,euro,754.62
+2019-06,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,6,5.838,1.2,64.0,1810,0,102.59,dolar,667.68
+2019-06,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,13,12.796,1.6,68.0,2330,1,102.59,euro,754.62
+2019-06,Truffade Nero 1.5 D,Truffade Nero,Truffade,Grupo Truffade,europeo,3,17.535,1.5,75.0,2370,1,102.59,euro,754.62
+2019-06,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,108,11.888,1.6,68.0,2330,1,102.59,euro,754.62
+2019-06,Ubermacht Sentinel 1.6 D,Ubermacht Sentinel,Ubermacht,Grupo Truffade,europeo,15,9.872,1.6,68.0,2330,1,102.59,euro,754.62
+2019-06,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,29,5.243,1.2,72.0,1730,0,102.59,dolar,667.68
+2019-06,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,12,5.358,1.2,61.0,1800,0,102.59,dolar,667.68
+2019-06,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,132,9.592,1.5,55.0,1960,1,102.59,euro,754.62
+2019-06,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,7,9.213,1.6,60.0,1881,0,102.59,euro,754.62
+2019-06,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,6,9.431,1.6,67.0,1950,0,102.59,dolar,667.68
+2019-07,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,21,6.481,1.5,75.0,1955,0,102.24,dolar,667.4
+2019-07,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,40,14.108,1.5,97.0,2100,1,102.24,euro,749.57
+2019-07,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,118,6.043,1.2,60.0,1850,0,102.24,dolar,667.4
+2019-07,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,12,11.291,1.3,65.0,2330,1,102.24,euro,749.57
+2019-07,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,7,13.447,1.6,76.0,2505,1,102.24,euro,749.57
+2019-07,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,22,6.964,1.4,62.0,1767,0,102.24,dolar,667.4
+2019-07,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,68,8.851,1.2,55.0,1700,1,102.24,euro,749.57
+2019-07,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,29,8.264,1.4,56.0,1680,0,102.24,euro,749.57
+2019-07,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,5,5.788,1.2,64.0,1810,0,102.24,dolar,667.4
+2019-07,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,120,11.037,1.6,68.0,2330,1,102.24,euro,749.57
+2019-07,Truffade Nero 1.5 D,Truffade Nero,Truffade,Grupo Truffade,europeo,6,18.341,1.5,75.0,2370,1,102.24,euro,749.57
+2019-07,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,128,11.063,1.6,68.0,2330,1,102.24,euro,749.57
+2019-07,Ubermacht Sentinel 1.6 D,Ubermacht Sentinel,Ubermacht,Grupo Truffade,europeo,6,13.73,1.6,68.0,2330,1,102.24,euro,749.57
+2019-07,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,24,5.883,1.2,72.0,1730,0,102.24,dolar,667.4
+2019-07,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,27,4.906,1.2,61.0,1800,0,102.24,dolar,667.4
+2019-07,Maibatsu Mule 1.5 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,6,8.326,1.5,85.0,2145,0,102.24,dolar,667.4
+2019-07,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,14,10.5,1.5,55.0,1960,1,102.24,euro,749.57
+2019-07,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,11,8.981,1.6,67.0,1950,0,102.24,dolar,667.4
+2019-08,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,16,6.386,1.5,75.0,1955,0,103.51,dolar,692.0
+2019-08,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,121,7.089,1.2,60.0,1850,0,103.51,dolar,692.0
+2019-08,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,7,11.461,1.3,65.0,2330,1,103.51,euro,774.21
+2019-08,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,3,12.852,1.6,76.0,2505,1,103.51,euro,774.21
+2019-08,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,16,7.137,1.4,62.0,1767,0,103.51,dolar,692.0
+2019-08,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,33,9.723,1.2,55.0,1700,1,103.51,euro,774.21
+2019-08,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,28,8.253,1.4,56.0,1680,0,103.51,euro,774.21
+2019-08,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,5,5.766,1.2,64.0,1810,0,103.51,dolar,692.0
+2019-08,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,20,11.535,1.6,68.0,2330,1,103.51,euro,774.21
+2019-08,Truffade Nero 1.5 D,Truffade Nero,Truffade,Grupo Truffade,europeo,3,18.416,1.5,75.0,2370,1,103.51,euro,774.21
+2019-08,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,59,11.543,1.6,68.0,2330,1,103.51,euro,774.21
+2019-08,Ubermacht Sentinel 1.6 D,Ubermacht Sentinel,Ubermacht,Grupo Truffade,europeo,3,15.036,1.6,68.0,2330,1,103.51,euro,774.21
+2019-08,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,20,6.019,1.2,72.0,1730,0,103.51,dolar,692.0
+2019-08,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,24,6.0,1.2,61.0,1800,0,103.51,dolar,692.0
+2019-08,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,51,10.357,1.5,55.0,1960,1,103.51,euro,774.21
+2019-08,Penaud La Coureuse 1.6 G,Penaud La Coureuse,Penaud,Penaud,europeo,5,10.307,1.6,60.0,1881,0,103.51,euro,774.21
+2019-08,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,4,9.426,1.6,67.0,1950,0,103.51,dolar,692.0
+2019-09,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,18,6.461,1.5,75.0,1955,0,103.75,dolar,692.41
+2019-09,BF Surfer 2.0 D,BF Surfer,BF,BF,europeo,4,13.597,2.0,103.0,2172,1,103.75,euro,781.54
+2019-09,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,4,14.56,1.5,97.0,2100,1,103.75,euro,781.54
+2019-09,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,91,6.943,1.2,60.0,1850,0,103.75,dolar,692.41
+2019-09,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,18,11.838,1.3,65.0,2330,1,103.75,euro,781.54
+2019-09,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,8,13.367,1.6,76.0,2505,1,103.75,euro,781.54
+2019-09,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,24,8.201,1.4,62.0,1767,0,103.75,dolar,692.41
+2019-09,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,39,9.762,1.2,55.0,1700,1,103.75,euro,781.54
+2019-09,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,34,8.491,1.4,56.0,1680,0,103.75,euro,781.54
+2019-09,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,4,5.479,1.2,64.0,1810,0,103.75,dolar,692.41
+2019-09,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,102,9.986,1.6,68.0,2330,1,103.75,euro,781.54
+2019-09,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,78,11.573,1.6,68.0,2330,1,103.75,euro,781.54
+2019-09,Ubermacht Sentinel 1.6 D,Ubermacht Sentinel,Ubermacht,Grupo Truffade,europeo,11,12.587,1.6,68.0,2330,1,103.75,euro,781.54
+2019-09,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,15,6.218,1.2,72.0,1730,0,103.75,dolar,692.41
+2019-09,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,16,6.279,1.2,61.0,1800,0,103.75,dolar,692.41
+2019-09,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,6,11.763,1.5,55.0,1960,1,103.75,euro,781.54
+2019-09,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,5,9.375,1.6,67.0,1950,0,103.75,dolar,692.41
+2019-10,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,15,6.241,1.5,75.0,1955,0,103.98,dolar,686.06
+2019-10,BF Surfer 2.0 D,BF Surfer,BF,BF,europeo,5,14.25,2.0,103.0,2172,1,103.98,euro,770.12
+2019-10,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,13,14.639,1.5,97.0,2100,1,103.98,euro,770.12
+2019-10,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,100,6.976,1.2,60.0,1850,0,103.98,dolar,686.06
+2019-10,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,17,12.259,1.3,65.0,2330,1,103.98,euro,770.12
+2019-10,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,5,14.204,1.6,76.0,2505,1,103.98,euro,770.12
+2019-10,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,17,7.818,1.4,62.0,1767,0,103.98,dolar,686.06
+2019-10,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,27,10.716,1.2,55.0,1700,1,103.98,euro,770.12
+2019-10,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,23,8.811,1.4,56.0,1680,0,103.98,euro,770.12
+2019-10,Jobuilt Hauler 1.2 G,Jobuilt Hauler,Jobuilt,Grupo Dinka,asiatico,6,5.131,1.2,64.0,1810,0,103.98,dolar,686.06
+2019-10,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,102,10.565,1.6,68.0,2330,1,103.98,euro,770.12
+2019-10,Truffade Nero 1.5 D,Truffade Nero,Truffade,Grupo Truffade,europeo,11,19.349,1.5,75.0,2370,1,103.98,euro,770.12
+2019-10,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,145,11.18,1.6,68.0,2330,1,103.98,euro,770.12
+2019-10,Ubermacht Sentinel 1.6 D,Ubermacht Sentinel,Ubermacht,Grupo Truffade,europeo,5,11.8,1.6,68.0,2330,1,103.98,euro,770.12
+2019-10,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,20,6.085,1.2,72.0,1730,0,103.98,dolar,686.06
+2019-10,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,13,5.024,1.2,61.0,1800,0,103.98,dolar,686.06
+2019-10,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,65,8.991,1.5,55.0,1960,1,103.98,euro,770.12
+2019-10,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,12,8.476,1.6,67.0,1950,0,103.98,dolar,686.06
+2019-11,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,7,7.559,1.5,75.0,1955,0,112.38,dolar,713.7
+2019-11,BF Surfer 2.0 D,BF Surfer,BF,BF,europeo,1,15.855,2.0,103.0,2172,1,112.38,euro,794.51
+2019-11,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,1,16.257,1.5,97.0,2100,1,112.38,euro,794.51
+2019-11,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,39,7.445,1.2,60.0,1850,0,112.38,dolar,713.7
+2019-11,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,3,14.397,1.3,65.0,2330,1,112.38,euro,794.51
+2019-11,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,1,16.154,1.6,76.0,2505,1,112.38,euro,794.51
+2019-11,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,5,9.079,1.4,62.0,1767,0,112.38,dolar,713.7
+2019-11,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,17,11.414,1.2,55.0,1700,1,112.38,euro,794.51
+2019-11,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,9,9.372,1.4,56.0,1680,0,112.38,euro,794.51
+2019-11,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,25,11.196,1.6,68.0,2330,1,112.38,euro,794.51
+2019-11,Truffade Nero 1.5 D,Truffade Nero,Truffade,Grupo Truffade,europeo,1,21.311,1.5,75.0,2370,1,112.38,euro,794.51
+2019-11,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,35,12.477,1.6,68.0,2330,1,112.38,euro,794.51
+2019-11,Ubermacht Sentinel 1.6 D,Ubermacht Sentinel,Ubermacht,Grupo Truffade,europeo,1,12.712,1.6,68.0,2330,1,112.38,euro,794.51
+2019-11,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,7,6.893,1.2,72.0,1730,0,112.38,dolar,713.7
+2019-11,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,10,6.334,1.2,61.0,1800,0,112.38,dolar,713.7
+2019-11,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,5,11.309,1.5,55.0,1960,1,112.38,euro,794.51
+2019-11,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,3,10.548,1.6,67.0,1950,0,112.38,dolar,713.7
+2019-12,Annis Savestra 1.5 G,Annis Savestra,Annis,Annis,asiatico,9,7.197,1.5,75.0,1955,0,112.04,dolar,718.44
+2019-12,Benefactor Panto 1.5 D,Benefactor Panto,Benefactor,Benefactor,europeo,3,16.205,1.5,97.0,2100,1,112.04,euro,790.94
+2019-12,Declasse Burrito 1.2 G,Declasse Burrito,Declasse,Declasse,asiatico,54,8.06,1.2,60.0,1850,0,112.04,dolar,718.44
+2019-12,Bravado Paradise 1.3 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,6,14.218,1.3,65.0,2330,1,112.04,euro,790.94
+2019-12,Bravado Paradise 1.6 D,Bravado Paradise,Bravado,Grupo Bravado,europeo,2,15.791,1.6,76.0,2505,1,112.04,euro,790.94
+2019-12,Bravado Rumpo 1.4 G,Bravado Rumpo,Bravado,Grupo Bravado,europeo,14,8.591,1.4,62.0,1767,0,112.04,dolar,718.44
+2019-12,Bravado Youga 1.2 D,Bravado Youga,Bravado,Grupo Bravado,europeo,31,11.191,1.2,55.0,1700,1,112.04,euro,790.94
+2019-12,Bravado Youga 1.4 G,Bravado Youga,Bravado,Grupo Bravado,europeo,24,10.542,1.4,56.0,1680,0,112.04,euro,790.94
+2019-12,Ocelot Jackal 1.6 D,Ocelot Jackal,Ocelot,Grupo Truffade,europeo,82,11.533,1.6,68.0,2330,1,112.04,euro,790.94
+2019-12,Truffade Nero 1.5 D,Truffade Nero,Truffade,Grupo Truffade,europeo,6,18.617,1.5,75.0,2370,1,112.04,euro,790.94
+2019-12,Truffade Nero 1.6 D,Truffade Nero,Truffade,Grupo Truffade,europeo,41,13.193,1.6,68.0,2330,1,112.04,euro,790.94
+2019-12,Ubermacht Sentinel 1.6 D,Ubermacht Sentinel,Ubermacht,Grupo Truffade,europeo,3,13.339,1.6,68.0,2330,1,112.04,euro,790.94
+2019-12,Karin BeeJay 1.2 G,Karin BeeJay,Karin,Karin,asiatico,10,6.652,1.2,72.0,1730,0,112.04,dolar,718.44
+2019-12,Maibatsu Mule 1.2 G,Maibatsu Mule,Maibatsu,Maibatsu,asiatico,8,5.82,1.2,61.0,1800,0,112.04,dolar,718.44
+2019-12,Penaud La Coureuse 1.5 D,Penaud La Coureuse,Penaud,Penaud,europeo,11,12.37,1.5,55.0,1960,1,112.04,euro,790.94
+2019-12,Shitzu Vader 1.6 G,Shitzu Vader,Shitzu,Shitzu,asiatico,2,10.719,1.6,67.0,1950,0,112.04,dolar,718.44
